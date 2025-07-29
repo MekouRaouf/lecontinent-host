@@ -1,0 +1,163 @@
+{
+  "header": {
+    "home": "Accueil",
+    "plans": "Plans",
+    "about": "À Propos",
+    "contact": "Contact",
+    "phone": "+237 6XX XXX XXX",
+    "support": "Support Client"
+  },
+  "hero": {
+    "title": "Hébergement Web Professionnel",
+    "subtitle": "au Cameroun",
+    "description": "Hébergez votre site web avec la meilleure infrastructure locale. Performance garantie, support 24/7 et prix adaptés au marché camerounais.",
+    "viewPlans": "Voir nos Plans",
+    "freeTrial": "Test Gratuit 7 Jours",
+    "features": {
+      "security": {
+        "title": "Sécurité Maximale",
+        "description": "Protection SSL gratuite, sauvegardes automatiques et surveillance 24/7"
+      },
+      "performance": {
+        "title": "Performance Optimale",
+        "description": "Serveurs SSD, CDN intégré et optimisation pour le marché africain"
+      },
+      "support": {
+        "title": "Support Local",
+        "description": "Équipe technique basée au Cameroun, support en français 24/7"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Plans d'Hébergement",
+    "description": "Choisissez le plan qui correspond parfaitement à vos besoins. Tous nos plans incluent un support technique local en français.",
+    "popular": "Plus Populaire",
+    "month": "/mois",
+    "choosePlan": "Choisir ce Plan",
+    "customQuote": "Besoin d'un plan personnalisé ? Contactez-nous pour un devis sur mesure.",
+    "requestQuote": "Demander un Devis",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Parfait pour débuter",
+        "features": [
+          "1 Site Web",
+          "10 GB Stockage SSD",
+          "100 GB Bande Passante",
+          "5 Comptes Email",
+          "SSL Gratuit",
+          "Support Email"
+        ]
+      },
+      "business": {
+        "name": "Business",
+        "description": "Pour les entreprises en croissance",
+        "features": [
+          "5 Sites Web",
+          "50 GB Stockage SSD",
+          "500 GB Bande Passante",
+          "25 Comptes Email",
+          "SSL Gratuit",
+          "Support 24/7",
+          "Sauvegarde Automatique",
+          "Certificat SSL Wildcard"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Maximum de performance",
+        "features": [
+          "Sites Illimités",
+          "100 GB Stockage SSD",
+          "Bande Passante Illimitée",
+          "Comptes Email Illimités",
+          "SSL Gratuit",
+          "Support Prioritaire 24/7",
+          "Sauvegarde Quotidienne",
+          "CDN Gratuit",
+          "Staging Environment"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "Votre Partenaire Technologique",
+    "subtitle": "au Cameroun",
+    "description1": "Depuis notre création, nous nous engageons à fournir des services d'hébergement web de qualité supérieure adaptés aux besoins spécifiques du marché camerounais. Notre infrastructure locale garantit des performances optimales pour vos visiteurs.",
+    "description2": "Avec des serveurs basés à Douala et Yaoundé, nous offrons une latence réduite et une expérience utilisateur exceptionnelle pour vos clients locaux.",
+    "location": "Bureaux à Douala, Yaoundé et Bafoussam",
+    "whyChoose": "Pourquoi Choisir LeContinentHost ?",
+    "stats": {
+      "clients": "Clients Satisfaits",
+      "uptime": "Temps de Fonctionnement",
+      "support": "Support Technique",
+      "cities": "Villes au Cameroun"
+    },
+    "reasons": {
+      "infrastructure": {
+        "title": "Infrastructure Locale",
+        "description": "Serveurs basés au Cameroun pour une meilleure performance"
+      },
+      "support": {
+        "title": "Support en Français",
+        "description": "Équipe technique qui parle votre langue"
+      },
+      "pricing": {
+        "title": "Prix Compétitifs",
+        "description": "Tarifs adaptés au pouvoir d'achat local"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "description": "Notre équipe est là pour répondre à toutes vos questions. Contactez-nous par le moyen qui vous convient le mieux.",
+    "info": "Informations de Contact",
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Nom Complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "namePlaceholder": "Votre nom complet",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "phonePlaceholder": "+237 6XX XXX XXX",
+      "messagePlaceholder": "Décrivez votre projet ou vos besoins...",
+      "send": "Envoyer le Message",
+      "required": "*",
+      "success": "Merci pour votre message ! Nous vous contacterons sous peu."
+    },
+    "details": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresses",
+      "whatsapp": "WhatsApp",
+      "supportAvailable": "Support disponible 24/7",
+      "addresses": {
+        "douala": "Douala : Rue de la République, Akwa",
+        "yaounde": "Yaoundé : Avenue Kennedy, Centre-ville",
+        "bafoussam": "Bafoussam : Marché Central"
+      }
+    }
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance pour l'hébergement web au Cameroun. Nous offrons des solutions fiables, sécurisées et adaptées au marché local.",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "© 2024 LeContinentHost. Tous droits réservés.",
+    "terms": "Conditions d'Utilisation",
+    "privacy": "Politique de Confidentialité",
+    "support": "Support",
+    "servicesList": {
+      "shared": "Hébergement Partagé",
+      "vps": "Serveurs VPS",
+      "dedicated": "Serveurs Dédiés",
+      "domains": "Noms de Domaine",
+      "ssl": "Certificats SSL",
+      "backup": "Sauvegarde"
+    },
+    "location": {
+      "cities": "Douala, Yaoundé, Bafoussam",
+      "country": "Cameroun"
+    }
+  }
+}

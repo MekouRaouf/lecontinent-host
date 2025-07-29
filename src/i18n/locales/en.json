@@ -1,0 +1,163 @@
+{
+  "header": {
+    "home": "Home",
+    "plans": "Plans",
+    "about": "About",
+    "contact": "Contact",
+    "phone": "+237 6XX XXX XXX",
+    "support": "Customer Support"
+  },
+  "hero": {
+    "title": "Professional Web Hosting",
+    "subtitle": "in Cameroon",
+    "description": "Host your website with the best local infrastructure. Guaranteed performance, 24/7 support and prices adapted to the Cameroonian market.",
+    "viewPlans": "View Our Plans",
+    "freeTrial": "7-Day Free Trial",
+    "features": {
+      "security": {
+        "title": "Maximum Security",
+        "description": "Free SSL protection, automatic backups and 24/7 monitoring"
+      },
+      "performance": {
+        "title": "Optimal Performance",
+        "description": "SSD servers, integrated CDN and optimization for the African market"
+      },
+      "support": {
+        "title": "Local Support",
+        "description": "Technical team based in Cameroon, 24/7 support in French and English"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Hosting Plans",
+    "description": "Choose the plan that perfectly fits your needs. All our plans include local technical support in French and English.",
+    "popular": "Most Popular",
+    "month": "/month",
+    "choosePlan": "Choose This Plan",
+    "customQuote": "Need a custom plan? Contact us for a personalized quote.",
+    "requestQuote": "Request Quote",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Perfect to get started",
+        "features": [
+          "1 Website",
+          "10 GB SSD Storage",
+          "100 GB Bandwidth",
+          "5 Email Accounts",
+          "Free SSL",
+          "Email Support"
+        ]
+      },
+      "business": {
+        "name": "Business",
+        "description": "For growing businesses",
+        "features": [
+          "5 Websites",
+          "50 GB SSD Storage",
+          "500 GB Bandwidth",
+          "25 Email Accounts",
+          "Free SSL",
+          "24/7 Support",
+          "Automatic Backup",
+          "Wildcard SSL Certificate"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Maximum performance",
+        "features": [
+          "Unlimited Websites",
+          "100 GB SSD Storage",
+          "Unlimited Bandwidth",
+          "Unlimited Email Accounts",
+          "Free SSL",
+          "Priority 24/7 Support",
+          "Daily Backup",
+          "Free CDN",
+          "Staging Environment"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "Your Technology Partner",
+    "subtitle": "in Cameroon",
+    "description1": "Since our inception, we are committed to providing superior web hosting services tailored to the specific needs of the Cameroonian market. Our local infrastructure guarantees optimal performance for your visitors.",
+    "description2": "With servers based in Douala and Yaoundé, we offer reduced latency and an exceptional user experience for your local customers.",
+    "location": "Offices in Douala, Yaoundé and Bafoussam",
+    "whyChoose": "Why Choose LeContinentHost?",
+    "stats": {
+      "clients": "Satisfied Clients",
+      "uptime": "Uptime",
+      "support": "Technical Support",
+      "cities": "Cities in Cameroon"
+    },
+    "reasons": {
+      "infrastructure": {
+        "title": "Local Infrastructure",
+        "description": "Servers based in Cameroon for better performance"
+      },
+      "support": {
+        "title": "Multilingual Support",
+        "description": "Technical team that speaks your language"
+      },
+      "pricing": {
+        "title": "Competitive Prices",
+        "description": "Rates adapted to local purchasing power"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Our team is here to answer all your questions. Contact us by the method that suits you best.",
+    "info": "Contact Information",
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "namePlaceholder": "Your full name",
+      "emailPlaceholder": "your.email@example.com",
+      "phonePlaceholder": "+237 6XX XXX XXX",
+      "messagePlaceholder": "Describe your project or needs...",
+      "send": "Send Message",
+      "required": "*",
+      "success": "Thank you for your message! We will contact you shortly."
+    },
+    "details": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Addresses",
+      "whatsapp": "WhatsApp",
+      "supportAvailable": "24/7 support available",
+      "addresses": {
+        "douala": "Douala: République Street, Akwa",
+        "yaounde": "Yaoundé: Kennedy Avenue, Downtown",
+        "bafoussam": "Bafoussam: Central Market"
+      }
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for web hosting in Cameroon. We offer reliable, secure solutions adapted to the local market.",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "© 2024 LeContinentHost. All rights reserved.",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "support": "Support",
+    "servicesList": {
+      "shared": "Shared Hosting",
+      "vps": "VPS Servers",
+      "dedicated": "Dedicated Servers",
+      "domains": "Domain Names",
+      "ssl": "SSL Certificates",
+      "backup": "Backup"
+    },
+    "location": {
+      "cities": "Douala, Yaoundé, Bafoussam",
+      "country": "Cameroon"
+    }
+  }
+}
